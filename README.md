@@ -1,4 +1,4 @@
-# ADA LAB
+# Analysis And Design of Algorithms LAB
 
 ## Contents
 - Lab 1: Duplicate Elements, Horner’s Rule, Linear Search, Permutation Generator, Selection Sort, Tower of Hanoi, Velocity, Power (Iterative & Recursive) , sum of n numbers (iterative & recursive), truth table generation (iterative & recursive) , bubble sort , consecutive numbers
