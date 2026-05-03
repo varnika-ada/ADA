@@ -220,7 +220,7 @@ array size duration
 ```
 
 ### Graph
-![linear-search](image-1.png)
+![linear-search](linear_search.png)
 ---
 
 ## 4. Program: permutation generator
@@ -886,7 +886,7 @@ array size duration
 ```
 
 ### Graph
-![bubblesort](image-8.png)
+![bubblesort](bubble_sort.png)
 
 ---
 
@@ -1341,7 +1341,7 @@ int main()
 ```
 
 ### Graph
-![quicksort](image-4.png)
+![quicksort](quick_sort.png)
 ---
 
 ## LAB 4 :
@@ -1559,7 +1559,7 @@ int main()
 ```
 
 ### Graph
-![mergesort](image-5.png)
+![mergesort](merge_sort.png)
 ---
 
 ## LAB 5 :
@@ -1849,7 +1849,7 @@ int main() {
 ```
 
 ### Graph
-![kth smalllest](image-6.png)
+![kth smalllest](kth_smallest.png)
 ---
 
 ## 4. Program: Max-Min Element
@@ -1944,7 +1944,7 @@ int main() {
 ```
 
 ### Graph
-![minmax](image-7.png)
+![minmax](max_min.png)
 ---
 ## LAB 6
 ## 1. Program: Prim’s Algorithm
